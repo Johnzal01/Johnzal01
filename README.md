@@ -6,14 +6,15 @@ I enjoy coding as it makes me feel creative and challenged.
 
 I love creating projects that come to mind.
 
-**Currently Mastering** Python 🐍
+### Working on ⚒️
 
-**Next Language I will master is** C++
+• **Mastering:** Python 🐍
+• **Next language:** C++
 
-Some **fun facts** about me:
+### Some **fun facts** about me:
 
-• I think about my projects all day everyday ☀️
-
+• I think about my projects all day every day ☀️
+ 
 • I have a dog named Lucy 🐶
 
 • I love chocolate 🍫
