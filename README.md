@@ -9,6 +9,7 @@ I love creating projects that come to mind.
 ### Working on ⚒️
 
 • **Mastering:** Python 🐍
+
 • **Next language:** C++
 
 ### Some **fun facts** about me:
