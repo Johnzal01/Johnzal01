@@ -8,7 +8,7 @@ I love creating projects that come to mind.
 
 **Currently Mastering** Python 🐍
 
-**Next Language I will master** C++
+**Next Language I will master is** C++
 
 Some **fun facts** about me:
 
